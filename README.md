@@ -6,8 +6,10 @@ Os incêndios florestais são uma preocupação ambiental significativa em todo 
 
 ## Conjunto de Dados
 Os dados utilizados nesse projeto tem como origem:
-**Queimadas:** https://dados.gov.br/dados/conjuntos-dados/snif - Que compreendem variáveis como ['Estado', 'Quantidade de incêndios', 'Data']
-**Informações do clima:** https://www.kaggle.com/datasets/fabiojorge/brazil-temperature-2012-2019 - Que compreendem variáveis como ['Estado', 'Data', 'Precipitacao', 'TempMaxima', 'TempMinima', 'UmidadeRelativa']
+**Queimadas:** https://dados.gov.br/dados/conjuntos-dados/snif - Que compreendem variáveis como: ['Estado', 'Quantidade de incêndios', 'Data']
+
+**Informações do clima:** https://www.kaggle.com/datasets/fabiojorge/brazil-temperature-2012-2019 - Que compreendem variáveis como:
+['Estado', 'Data', 'Precipitacao', 'TempMaxima', 'TempMinima', 'UmidadeRelativa']
 
 ## Objetivos
 Os principais objetivos deste projeto são:

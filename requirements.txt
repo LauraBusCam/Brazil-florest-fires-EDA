@@ -1,0 +1,8 @@
+# Arquivo requirements.txt
+python >= 3.6
+jupyter
+pandas
+matplotlib
+statsmodels
+pyarrow
+jinja2
