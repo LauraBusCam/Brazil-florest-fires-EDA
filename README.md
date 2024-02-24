@@ -6,9 +6,9 @@ Os incêndios florestais são uma preocupação ambiental significativa em todo 
 
 ## Conjunto de Dados
 Os dados utilizados nesse projeto tem como origem:
-**Queimadas:** https://dados.gov.br/dados/conjuntos-dados/snif - Que compreendem variáveis como: ['Estado', 'Quantidade de incêndios', 'Data']
+- **Queimadas:** https://dados.gov.br/dados/conjuntos-dados/snif - Que compreendem variáveis como: ['Estado', 'Quantidade de incêndios', 'Data']
 
-**Informações do clima:** https://www.kaggle.com/datasets/fabiojorge/brazil-temperature-2012-2019 - Que compreendem variáveis como:
+- **Informações do clima:** https://www.kaggle.com/datasets/fabiojorge/brazil-temperature-2012-2019 - Que compreendem variáveis como:
 ['Estado', 'Data', 'Precipitacao', 'TempMaxima', 'TempMinima', 'UmidadeRelativa']
 
 ## Objetivos
@@ -44,7 +44,7 @@ Para executar este projeto localmente, siga estas etapas:
 
 Clone este repositório para o seu ambiente de desenvolvimento.
 Instale as dependências listadas no arquivo requirements.txt.
-Execute os notebooks Jupyter 'main.ipynb' na pasta /src.
+Execute o notebook Jupyter 'main.ipynb' na pasta /src.
 
 
 ## Autores
