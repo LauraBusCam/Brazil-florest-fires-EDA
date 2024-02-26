@@ -1,6 +1,6 @@
 # Arquivo requirements.txt
 python >= 3.6
-jupyter
+jupyter notebooks
 pandas
 matplotlib
 statsmodels
