@@ -39,7 +39,7 @@ Espera-se que este projeto forneça insights valiosos sobre a dinâmica dos inc�
 ##### /src: Notebooks Jupyter contendo o código fonte e a documentação do projeto.
 ##### README.md: Este arquivo que fornece uma visão geral do projeto.
 
-# Como Executar o Projeto
+## Como Executar o Projeto
 Para executar este projeto localmente, siga estas etapas:
 
 Clone este repositório para o seu ambiente de desenvolvimento.
@@ -53,6 +53,8 @@ Este projeto foi desenvolvido por:
 - Guilherme Araújo Mendes de Souza;
 - Laura Busin Campos;
 - Miller Machado Monteiro;
+<br>
 Como projeto de conclusão do módulo de 'Técnicas de Programação' proporcionado por ADA Tech, no programa 'Santander Coders 2023.2 / Data Science' datado em 27/02/2024.
-Licença
+
+## Licença
 Este projeto é distribuído sob a licença [MIT License]. Consulte o arquivo LICENSE para obter mais detalhes.
